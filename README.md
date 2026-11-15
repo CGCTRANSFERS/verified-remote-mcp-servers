@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2960 servers · 1782 handshakes passed · 1178 require authentication · 18 categories
+2961 servers · 1783 handshakes passed · 1178 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1837,6 +1837,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Pickshade](https://appside.build/mcp-servers/pickshade/) | <code>https://pickshade.com/api/mcp</code> | other | ✅ handshake · 18 tools | [Pickshade](https://github.com/tenzo-run/pickshade-mcp) |
 | [Presend](https://appside.build/mcp-servers/presend/) | <code>https://presend.pages.dev/mcp</code> | API Key | ✅ handshake · 40 tools | [Presend](https://presend.pages.dev/) |
 | [Privi](https://appside.build/mcp-servers/privi/) | <code>https://privi-ledger.onrender.com/mcp</code> | API Key | ✅ handshake · 121 tools | [Privi](https://privi-hub.onrender.com/) |
+| [Privi Ledger](https://appside.build/mcp-servers/privi-ledger/) | <code>https://privi-ledger-aqe5.onrender.com/mcp</code> | API Key | ✅ handshake · 136 tools | [Privi World Corp](https://github.com/canoydario847-cloud/Privi-Network) |
 | [ProofStack](https://appside.build/mcp-servers/proofstack/) | <code>https://proof-stack-lake.vercel.app/mcp</code> | other | ✅ handshake · 3 tools | [ProofStack](https://proof-stack-lake.vercel.app/mcp) |
 | [Pushary](https://appside.build/mcp-servers/pushary/) | <code>https://pushary.com/api/mcp/mcp</code> | other | ✅ handshake · 6 tools | [Pushary](https://pushary.com/) |
 | [QPost](https://appside.build/mcp-servers/qpost/) | <code>https://qpost.dev/mcp</code> | OAuth | ✅ handshake · 9 tools | [QPost](https://qpost.dev/docs) |

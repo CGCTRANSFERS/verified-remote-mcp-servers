@@ -28420,6 +28420,20 @@
     }
   },
   {
+    "slug": "privi-ledger",
+    "name": "Privi Ledger",
+    "url": "https://privi-ledger-aqe5.onrender.com/mcp",
+    "category": "Security",
+    "auth": "API Key",
+    "maintainer": "Privi World Corp",
+    "site": "https://github.com/canoydario847-cloud/Privi-Network",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-15T19:47:12.945Z",
+      "toolCount": 136
+    }
+  },
+  {
     "slug": "probative-legal-marketing-data",
     "name": "Probative legal-marketing data",
     "url": "https://probativegrowth.com/mcp",
