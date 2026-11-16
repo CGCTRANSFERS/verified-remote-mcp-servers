@@ -25508,6 +25508,20 @@
     }
   },
   {
+    "slug": "openradar",
+    "name": "openradar",
+    "url": "https://openradar.fun/mcp",
+    "category": "Data & Analytics",
+    "auth": "Open",
+    "maintainer": "Mikhail Sagalaev",
+    "site": "https://openradar.fun/",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-16T14:03:42.873Z",
+      "toolCount": 9
+    }
+  },
+  {
     "slug": "openshopgraph",
     "name": "OpenShopGraph",
     "url": "https://api.openshopgraph.com/mcp",

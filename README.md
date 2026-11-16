@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2961 servers · 1783 handshakes passed · 1178 require authentication · 18 categories
+2962 servers · 1784 handshakes passed · 1178 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -561,6 +561,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Olympus Bets Analytics](https://appside.build/mcp-servers/olympus-bets-analytics/) | <code>https://app.olympus-bets.com/mcp</code> | other | ✅ handshake · 24 tools | [Olympus Bets Analytics](https://app.olympus-bets.com/mcp) |
 | [OpenHelm Deep Research](https://appside.build/mcp-servers/openhelm-deep-research/) | <code>https://mcp.openhelm.ai/research/mcp</code> | other | 🔐 auth required | [OpenHelm Deep Research](https://github.com/maxbeech/OpenHelm/tree/main/mcp/deep-research) |
 | [Openqr](https://appside.build/mcp-servers/openqr/) | <code>https://openqr.uk/mcp</code> | API Key | ✅ handshake · 23 tools | [Openqr](https://github.com/open-qr/openqr) |
+| [openradar](https://appside.build/mcp-servers/openradar/) | <code>https://openradar.fun/mcp</code> | Open | ✅ handshake · 9 tools | [Mikhail Sagalaev](https://openradar.fun/) |
 | [Ownkube](https://appside.build/mcp-servers/ownkube/) | <code>https://app.ownkube.io/api/mcp</code> | other | 🔐 auth required | [Ownkube](https://ownkube.io/) |
 | [PageLens Analytics](https://appside.build/mcp-servers/pagelens-analytics/) | <code>https://app.pagelens.io/mcp</code> | other | ✅ handshake · 23 tools | [PageLens Analytics](https://pagelens.io/) |
 | [PampaIA.ar](https://appside.build/mcp-servers/pampaia-ar/) | <code>https://pampaia.ar/mcp</code> | OAuth | 🔐 auth required | [Magirium Labs](https://pampaia.ar/) |
