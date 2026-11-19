@@ -7224,6 +7224,20 @@
     }
   },
   {
+    "slug": "cheapcarent-search",
+    "name": "CheapCarRent",
+    "url": "https://cheapcarent.com/mcp",
+    "category": "Travel & Local",
+    "auth": "Open",
+    "maintainer": "CheapCarRent",
+    "site": "https://cheapcarent.com/",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-19T08:43:50.492Z",
+      "toolCount": 2
+    }
+  },
+  {
     "slug": "checkfitment",
     "name": "CheckFitment",
     "url": "https://checkfitment.com/mcp?src=mcp",

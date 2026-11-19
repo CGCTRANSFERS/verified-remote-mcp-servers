@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2964 servers · 1786 handshakes passed · 1178 require authentication · 18 categories
+2965 servers · 1787 handshakes passed · 1178 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -2211,6 +2211,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Axel flight prices](https://appside.build/mcp-servers/axel-flight-prices/) | <code>https://helloaxel.com/mcp</code> | other | ✅ handshake · 9 tools | [Axel flight prices](https://helloaxel.com/) |
 | [Blinkcodes Agent Interfaces](https://appside.build/mcp-servers/blinkcodes-agent-interfaces/) | <code>https://blinkcodes.com/mcp</code> | other | ✅ handshake · 3 tools | [Blinkcodes Agent Interfaces](https://github.com/delneg/blinkcodes-agent-interfaces) |
 | [Breckenwander Travel Connector](https://appside.build/mcp-servers/breckenwander-travel-connector/) | <code>https://mcp.breckenwander.com/mcp</code> | API Key | ✅ handshake · 4 tools | [Breckenwander Travel Connector](https://github.com/durwardjohnson/breckenwander-travel-connector) |
+| [CheapCarRent](https://appside.build/mcp-servers/cheapcarent-search/) | <code>https://cheapcarent.com/mcp</code> | Open | ✅ handshake · 2 tools | [CheapCarRent](https://cheapcarent.com/) |
 | [China Data CN RegWatch](https://appside.build/mcp-servers/china-data-cn-regwatch/) | <code>https://cnregwatch.com/mcp</code> | other | ✅ handshake · 5 tools | [China Data CN RegWatch](https://cnregwatch.com/) |
 | [Close Knit](https://appside.build/mcp-servers/close-knit/) | <code>https://getcloseknit.com/mcp</code> | Open | ✅ handshake · 31 tools | [Close Knit](https://getcloseknit.com/) |
 | [Enzo's](https://appside.build/mcp-servers/enzo-s/) | <code>https://enzos.ai/mcp</code> | other | ✅ handshake · 6 tools | [Enzo's](https://enzos.ai/for-agents) |
