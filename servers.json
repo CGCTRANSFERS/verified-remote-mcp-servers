@@ -11396,6 +11396,20 @@
     }
   },
   {
+    "slug": "dripod",
+    "name": "Dripod",
+    "url": "https://drint.io/dripod/mcp",
+    "category": "Design & Media",
+    "auth": "Open",
+    "maintainer": "Drint",
+    "site": "https://drint.io/dripod",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-19T09:06:45.561Z",
+      "toolCount": 2
+    }
+  },
+  {
     "slug": "dripraven",
     "name": "DripRaven",
     "url": "https://app.dripraven.com/mcp",
