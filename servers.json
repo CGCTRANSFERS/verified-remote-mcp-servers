@@ -11326,6 +11326,20 @@
     }
   },
   {
+    "slug": "drict",
+    "name": "Drict",
+    "url": "https://drint.io/drict/mcp",
+    "category": "Knowledge & Docs",
+    "auth": "Open",
+    "maintainer": "Drint",
+    "site": "https://drint.io/drict",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-19T04:29:35.091Z",
+      "toolCount": 3
+    }
+  },
+  {
     "slug": "drinkedin-net",
     "name": "drinkedin.net",
     "url": "https://drinkedin.net/mcp",

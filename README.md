@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2962 servers · 1784 handshakes passed · 1178 require authentication · 18 categories
+2963 servers · 1785 handshakes passed · 1178 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -2151,6 +2151,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Docsy Plugin](https://appside.build/mcp-servers/docsy-plugin/) | <code>https://docsy.remcp.site/mcp/registry</code> | OAuth | 🔐 auth required | [Docsy Plugin](https://github.com/getremcp/docsy-plugin) |
 | [Documentation](https://appside.build/mcp-servers/documentation/) | <code>https://mcp.qovery.com/mcp</code> | other | 🔐 auth required | [Documentation](https://www.qovery.com/docs/copilot/mcp-server) |
 | [DokuTrak](https://appside.build/mcp-servers/dokutrak/) | <code>https://app.dokutrak.com/api/mcp</code> | other | ✅ handshake · 4 tools | [DokuTrak](https://dokutrak.com/) |
+| [Drict](https://appside.build/mcp-servers/drict/) | <code>https://drint.io/drict/mcp</code> | Open | ✅ handshake · 3 tools | [Drint](https://drint.io/drict) |
 | [Edgepedia](https://appside.build/mcp-servers/edgepedia/) | <code>https://www.edgechat.ai/mcp</code> | Open | ✅ handshake · 5 tools | [EdgeChat](https://www.edgechat.ai/) |
 | [Egnyte](https://appside.build/mcp-servers/egnyte/) | <code>https://mcp-server.egnyte.com/sse</code> | OAuth | 🔐 auth required | [Egnyte](https://egnyte.com/) |
 | [Fluentedi](https://appside.build/mcp-servers/fluentedi/) | <code>https://fluentedi.com/mcp</code> | other | ✅ handshake · 19 tools | [Fluentedi](https://github.com/mastermanas805/fluentedi-mcp) |
