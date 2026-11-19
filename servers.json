@@ -11396,6 +11396,20 @@
     }
   },
   {
+    "slug": "drisp",
+    "name": "Drisp",
+    "url": "https://drint.io/drisp/mcp",
+    "category": "Design & Media",
+    "auth": "Open",
+    "maintainer": "Drint",
+    "site": "https://drint.io/drisp",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-19T07:32:55.279Z",
+      "toolCount": 2
+    }
+  },
+  {
     "slug": "droneclear-thailand",
     "name": "DroneClear Thailand",
     "url": "https://www.droneclearthailand.com/mcp?src=mcp",

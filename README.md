@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2963 servers · 1785 handshakes passed · 1178 require authentication · 18 categories
+2964 servers · 1786 handshakes passed · 1178 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1583,6 +1583,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Dora](https://appside.build/mcp-servers/dora/) | <code>https://doravideo.com/mcp</code> | OAuth | 🔐 auth required | [Dora](https://github.com/Saga-Labs/dora-mcp) |
 | [Doseedo](https://appside.build/mcp-servers/doseedo/) | <code>https://api.doseedo.com/mcp</code> | other | ✅ handshake · 46 tools | [Doseedo](https://doseedo.com/mcp,) |
 | [Drint](https://appside.build/mcp-servers/drint/) | <code>https://drint.io/mcp</code> | OAuth | ✅ handshake · 11 tools | [Drint](https://drint.io/) |
+| [Drisp](https://appside.build/mcp-servers/drisp/) | <code>https://drint.io/drisp/mcp</code> | Open | ✅ handshake · 2 tools | [Drint](https://drint.io/drisp) |
 | [Duffey234/youraitools (PayGuard)](https://appside.build/mcp-servers/duffey234-youraitools-payguard/) | <code>https://api.youraitools.co/payguard/mcp</code> | other | ✅ handshake · 2 tools | [Duffey234/youraitools (PayGuard)](https://github.com/Duffey234/youraitools/tree/main/tools/payguard) |
 | [Dynamic Document API](https://appside.build/mcp-servers/dynamic-document-api/) | <code>https://mcp.dynamicdocumentapi.com/mcp</code> | other | 🔐 auth required | [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) |
 | [Easy-Peasy.AI](https://appside.build/mcp-servers/easy-peasy-ai/) | <code>https://easy-peasy.ai/mcp</code> | OAuth | ✅ handshake · 13 tools | [Easy-Peasy.AI](https://github.com/Easy-Peasy-AI/easy-peasy-mcp) |
