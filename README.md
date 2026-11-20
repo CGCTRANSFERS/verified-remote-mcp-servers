@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2966 servers · 1788 handshakes passed · 1178 require authentication · 18 categories
+2967 servers · 1788 handshakes passed · 1179 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1647,6 +1647,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Labelixa](https://appside.build/mcp-servers/labelixa/) | <code>https://api.labelixa.com/mcp</code> | API Key | ✅ handshake · 23 tools | [Labelixa](https://github.com/Labelixa/labelixa-mcp) |
 | [Layero Claude](https://appside.build/mcp-servers/layero-claude/) | <code>https://mcp.layero.ru/mcp</code> | other | ✅ handshake · 38 tools | [Layero Claude](https://github.com/LayeroInfra/layero-claude) |
 | [LibrePass eSIM](https://appside.build/mcp-servers/librepass-esim/) | <code>https://librepass.co/mcp</code> | other | ✅ handshake · 4 tools | [LibrePass eSIM](https://librepass.co/) |
+| [Live Face Swap](https://appside.build/mcp-servers/live-face-swap/) | <code>https://live-face-swap.net/api/mcp</code> | OAuth | 🔐 auth required | [Live Face Swap](https://live-face-swap.net/mcp) |
 | [Localscreenshot](https://appside.build/mcp-servers/localscreenshot/) | <code>https://api.localscreenshot.com/mcp/free</code> | API Key | ✅ handshake · 3 tools | [Localscreenshot](https://api.localscreenshot.com/) |
 | [Logospell](https://appside.build/mcp-servers/logospell/) | <code>https://mcp.logospell.com/mcp</code> | other | 🔐 auth required | [Logospell](https://logospell.com/docs) |
 | [Magichour](https://appside.build/mcp-servers/links/) | <code>https://mcp.magichour.ai/</code> | other | ✅ handshake · 48 tools | [links](https://mcp.magichour.ai/) |

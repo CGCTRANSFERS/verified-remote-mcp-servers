@@ -20146,6 +20146,20 @@
     }
   },
   {
+    "slug": "live-face-swap",
+    "name": "Live Face Swap",
+    "url": "https://live-face-swap.net/api/mcp",
+    "category": "Design & Media",
+    "auth": "OAuth",
+    "maintainer": "Live Face Swap",
+    "site": "https://live-face-swap.net/mcp",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-20T07:31:44.454Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "livedatalink",
     "name": "Livedatalink",
     "url": "https://livedatalink.ai/mcp",
