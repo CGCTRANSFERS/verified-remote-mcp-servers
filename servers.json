@@ -24528,6 +24528,20 @@
     }
   },
   {
+    "slug": "noderings",
+    "name": "NodeRings",
+    "url": "https://mcp.noderings.com/mcp",
+    "category": "Developer Tools",
+    "auth": "OAuth",
+    "maintainer": "NodeRings",
+    "site": "https://noderings.com/",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-20T20:11:36.881Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "noemic",
     "name": "Noemic",
     "url": "https://noemic.app/mcp",

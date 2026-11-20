@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2967 servers · 1788 handshakes passed · 1179 require authentication · 18 categories
+2968 servers · 1788 handshakes passed · 1180 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -296,6 +296,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Neon](https://appside.build/mcp-servers/neon/) | <code>https://mcp.neon.tech/mcp</code> | OAuth | 🔐 auth required | [Neon](https://neon.tech/) |
 | [Netlify](https://appside.build/mcp-servers/netlify/) | <code>https://netlify-mcp.netlify.app/mcp</code> | OAuth | 🔐 auth required | [Netlify](https://netlify.com/) |
 | [Nexlab MCP](https://appside.build/mcp-servers/nexlab-mcp/) | <code>https://mcp.nexlab.net/mcp</code> | other | 🔐 auth required | [Nexlab MCP](https://mcp.nexlab.net/) |
+| [NodeRings](https://appside.build/mcp-servers/noderings/) | <code>https://mcp.noderings.com/mcp</code> | OAuth | 🔐 auth required | [NodeRings](https://noderings.com/) |
 | [NoMac](https://appside.build/mcp-servers/nomac/) | <code>https://mcp.nomac.app/mcp</code> | OAuth | 🔐 auth required | [NoMac](https://nomac.app/) |
 | [NotebookLM Gemini Notebook MCP Server by useapi.net](https://appside.build/mcp-servers/notebooklm-gemini-notebook-mcp-server-by-useapi-net/) | <code>https://api.useapi.net/v1/gemini-notebook/mcp</code> | other | 🔐 auth required | [NotebookLM Gemini Notebook MCP Server by useapi.net](https://useapi.net/docs/api-gemini-notebook-v1/mcp) |
 | [notepad.page](https://appside.build/mcp-servers/notepad-page/) | <code>https://mcp.notepad.page/mcp</code> | OAuth | ✅ handshake · 1 tools | [notepad.page](https://notepad.page/) |
