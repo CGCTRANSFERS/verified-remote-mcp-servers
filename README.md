@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2968 servers · 1788 handshakes passed · 1180 require authentication · 18 categories
+2969 servers · 1789 handshakes passed · 1180 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -469,6 +469,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Weeklane](https://appside.build/mcp-servers/weeklane/) | <code>https://mcp.weeklane.app/mcp</code> | other | 🔐 auth required | [Weeklane](https://weeklane.app/ai) |
 | [WeInc](https://appside.build/mcp-servers/weinc/) | <code>https://my.we.inc/api/mcp</code> | other | ✅ handshake · 15 tools | [WeInc](https://we.inc/) |
 | [What's New](https://appside.build/mcp-servers/what-s-new/) | <code>https://whatsnew.fyi/mcp</code> | API Key | ✅ handshake · 5 tools | [What's New](https://whatsnew.fyi/mcp/setup) |
+| [WhatsDownNow](https://appside.build/mcp-servers/whatsdownnow/) | <code>https://whatsdownnow.com/mcp</code> | Open | ✅ handshake · 13 tools | [WhatsDownNow](https://whatsdownnow.com/developers) |
 | [Whisper Memos](https://appside.build/mcp-servers/whisper-memos/) | <code>https://whispermemos.com/mcp</code> | other | 🔐 auth required | [Whisper Memos](https://whispermemos.com/mcp) |
 | [Wondel Skills](https://appside.build/mcp-servers/wondel-skills/) | <code>https://skills.wondel.ai/mcp</code> | other | ✅ handshake · 5 tools | [Wondel Skills](https://github.com/mjaskolski/wondel-skills-mcp) |
 | [World Monitor](https://appside.build/mcp-servers/world-monitor/) | <code>https://worldmonitor.app/mcp</code> | OAuth | 🔐 auth required | [World Monitor](https://github.com/koala73/worldmonitor) |

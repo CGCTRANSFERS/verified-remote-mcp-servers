@@ -40250,6 +40250,20 @@
     }
   },
   {
+    "slug": "whatsdownnow",
+    "name": "WhatsDownNow",
+    "url": "https://whatsdownnow.com/mcp",
+    "category": "Developer Tools",
+    "auth": "Open",
+    "maintainer": "WhatsDownNow",
+    "site": "https://whatsdownnow.com/developers",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-21T23:13:07.898Z",
+      "toolCount": 13
+    }
+  },
+  {
     "slug": "whereabot",
     "name": "Whereabot",
     "url": "https://relay.whereabot.io/mcp",
