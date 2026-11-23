@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2969 servers · 1789 handshakes passed · 1180 require authentication · 18 categories
+2970 servers · 1789 handshakes passed · 1181 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1192,6 +1192,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Eterna](https://appside.build/mcp-servers/eterna/) | <code>https://mcp.eterna.exchange/mcp</code> | other | 🔐 auth required | [Eterna](https://github.com/EternaHybridExchange/eterna-mcp) |
 | [EveryCalc](https://appside.build/mcp-servers/everycalc/) | <code>https://everycalc.xyz/mcp</code> | other | ✅ handshake · 69 tools | [EveryCalc](https://everycalc.xyz/) |
 | [Facturx](https://appside.build/mcp-servers/facturx/) | <code>https://facturx.orvel.dev/mcp</code> | other | ✅ handshake · 10 tools | [Facturx](https://github.com/LeBorgneAntoine/facturx-mcp) |
+| [FlowFeed](https://appside.build/mcp-servers/flowfeed/) | <code>https://mcp.flowfeed.cc/mcp</code> | OAuth | 🔐 auth required | [FlowFeed](https://flowfeed.cc/) |
 | [Foresee](https://appside.build/mcp-servers/foresee/) | <code>https://agents.go-foresee.com/mcp</code> | Open | ✅ handshake · 2 tools | [Foresee](https://go-foresee.com/) |
 | [Formquote](https://appside.build/mcp-servers/formquote/) | <code>https://formquote-mcp.chen-yu-d1.workers.dev/mcp</code> | Open | ✅ handshake · 4 tools | [Formquote](https://pcba-quote-lab.pages.dev/en/) |
 | [Geo Parity](https://appside.build/mcp-servers/geo-parity/) | <code>https://geo-parity.com/api/mcp</code> | other | ✅ handshake · 62 tools | [Geo Parity](https://github.com/adamspaans88/geo-parity-mcp) |

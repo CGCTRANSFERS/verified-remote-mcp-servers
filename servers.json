@@ -13482,6 +13482,20 @@
     }
   },
   {
+    "slug": "flowfeed",
+    "name": "FlowFeed",
+    "url": "https://mcp.flowfeed.cc/mcp",
+    "category": "Finance & Payments",
+    "auth": "OAuth",
+    "maintainer": "FlowFeed",
+    "site": "https://flowfeed.cc/",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-23T21:42:27.442Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "flowmingo",
     "name": "Flowmingo",
     "url": "https://mcp.flowmingo.ai/mcp",
